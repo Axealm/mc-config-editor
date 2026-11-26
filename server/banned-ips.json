@@ -1,0 +1,9 @@
+[
+  {
+    "ip": "203.0.113.45",
+    "created": "2026-05-30 12:05:00 +0900",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "BAN回避の試み"
+  }
+]
